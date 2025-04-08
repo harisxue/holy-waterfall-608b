@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "holy-waterfall-608b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f9a59871-4fc1-4450-91d6-04cdd112ea75",
+      "database_name": "jolly-fog-fd4d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
